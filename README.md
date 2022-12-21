@@ -19,3 +19,8 @@ Contact me by email. alstj778@gmail.com
 <img  src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/>&nbsp;&nbsp;
 <img  src="https://img.shields.io/badge/Postgresql-4169E1?style=flat-square&logo=Postgresql&logoColor=white"/>&nbsp;&nbsp;
 <img  src="https://img.shields.io/badge/DynamoDB-4053D6?style=flat-square&logo=Amazon DynamoDB&logoColor=white"/>
+
+<br>
+<br>
+
+![mixxeo's github stats](https://github-readme-stats.vercel.app/api?username=mixxeo&show_icons=true&theme=dark)
