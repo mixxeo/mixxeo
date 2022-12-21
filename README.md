@@ -2,7 +2,7 @@
 
 I'm Backend Engineer, Minseo.<br>
 I hope to make some useful things in our life.<br><br>
-Contact me by email alstj778@gmail.com
+Contact me by email. alstj778@gmail.com
 
 <br>
 
